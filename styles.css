@@ -1,0 +1,146 @@
+a {
+    color: #11999E;
+    text-decoration-line: none;
+    font-family: Candara,Calibri,Segoe,"Segoe UI",Optima,Arial,sans-serif;
+    font-weight: bold;
+    letter-spacing: 5px;;
+}
+
+body {
+    color: #40514E;
+    font-family: Candara,Calibri,Segoe,"Segoe UI",Optima,Arial,sans-serif;
+    font-size: 1.2rem;
+    margin: 0;
+    text-align: center;
+}
+
+.bottom {
+    color: #000000;
+}
+
+.bottom-container {
+    background-color: #66bfbf;
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.btn {
+    background-color: #66bfbf;
+    border-radius: 90px;
+    border-color: #66bfbf;
+    color: #ffffff;
+    padding: 10px;
+}
+
+.cloud1 {
+    position: absolute; 
+    right: 800px;
+    top: 138px;
+}
+
+.cloud2 {
+    position: absolute; 
+    top: 250px;
+    left: 800px;
+}
+
+.code-skill-desc {
+    color: 40514e;
+    clear: none;
+}
+
+.copyright {
+    color: eaf6f6;
+}
+
+div {text-align: center;
+}
+
+h1 {
+    font-family: 'Aclonica', sans-serif;
+}
+
+h2 {
+    color: #66bfbf;
+    font-size: 2.5rem;
+    font-family: 'Acme', sans-serif;
+    font-weight: normal;
+    padding-top: 0px;
+}
+
+h3, h4 {
+    color: #66bfbf; 
+    font-size: 24px;
+    font-family: 'Acme', sans-serif;
+    padding-top: 0px;
+}
+
+hr {
+    background-color: none;
+    border: none;
+    border-bottom: 8px dotted #eaf6f6;
+    margin-top: 3%;
+    width: 15%;
+  }
+
+.mac {
+    animation: ease-in;
+    float: right;
+    margin-left: 30px;
+    width: 20%;
+  }
+
+.mac-title {
+    color: #11999E;
+}
+
+.middle-container {
+    background-color: #ffffff;
+    padding-top: 25px;
+    padding-bottom: 100px;
+}
+
+.mountains {
+    position: relative; 
+    top: 32px;
+}
+
+.myname {
+    color: #66bfbf;
+    font-size: 72px;
+    font-family: 'Allura', cursive;
+    margin: 50px auto 0 auto;
+}
+
+.mytitle {
+    color: #66bfbf;
+    font-size: 2.5rem;
+    font-family: 'Acme', sans-serif;
+    padding-top: 0px;
+}
+.skill-row {
+    line-height: 2;
+    margin: 50px auto 50px auto;
+    text-align: left;
+    width: 35%;
+}
+
+.top {
+    color: #ffffff; 
+    font-size: 48px;
+}
+
+.top-container {
+    background-color: #e0ebe7;
+    padding-top: 50px;
+    padding-bottom: 23px;
+    position: relative;
+}
+
+.vsc {
+    animation: reverse;
+    float: left;
+    margin-right: 30px;
+    width: 20%;
+}
